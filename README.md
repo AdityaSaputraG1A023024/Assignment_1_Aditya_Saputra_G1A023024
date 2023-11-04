@@ -33,6 +33,8 @@ Di dalam perulangan, ada pernyataan if dengan nilai i kurang dari atau sama deng
     System.out.println("(Aditya Saputra)");
 ```
 Jika i lebih besar dari 9, program akan mencetak nama "(Aditya Saputra)" sebagai gantinya.
+## Output
+![Screenshot (277) 2](https://github.com/AdityaSaputraG1A023024/Assignment_1_Aditya_Saputra_G1A023024/assets/147525304/f23e0c72-b691-4e40-b0b8-cf4a3e1d38f0)
 
 # Tugas 2
 Program ini adalah contoh kalkulator sederhana yang ditulis dalam bahasa pemrograman Java. Kalkulator ini memungkinkan pengguna untuk melakukan operasi perhitungan sederhana seperti penambahan, pengurangan, perkalian, dan pembagian. program ini menerapkan if else dalam perulangan while untuk melakukan operasi
@@ -101,6 +103,8 @@ Ini adalah bagian dari program yang menjalankan operasi pembagian dan menangani 
                 System.out.println("Pilihan tidak valid. Silakan coba lagi.");
 ```
 ini bagian dari program kalkulator yang menangani kasus di mana pengguna memasukkan pilihan yang tidak valid, yaitu pilihan selain 1, 2, 3, atau 4. program ini memberikan umpan balik kepada pengguna ketika mereka memasukkan pilihan yang tidak sesuai dengan menu operasi yang disediakan. 
+## Output
+![Screenshot (275) 2](https://github.com/AdityaSaputraG1A023024/Assignment_1_Aditya_Saputra_G1A023024/assets/147525304/4b75c7c2-7331-4796-bd58-81665ffc477f)
 
 # Tugas 3
 program zodiac adalah program yang berguna untuk menentukan zodiak pengguna. Program ini memungkinkan pengguna untuk memasukkan tanggal dan bulan kelahiran mereka contohnya Tanggal:16
@@ -148,6 +152,8 @@ Dengan kode ini pengguna dapat memasukkan bulan lahir mereka dalam format yang s
             System.out.println("Tanggal/Bulan yang dimasukkan tidak valid.");
 ```
 Jika tidak ada blok yang sesuai, maka pernyataan else terakhir akan dijalankan, dan program akan mencetak pesan "Tanggal/Bulan yang dimasukkan tidak valid." Ini memberi tahu pengguna bahwa masukan yang mereka berikan tidak sesuai dengan kriteria yang telah ditentukan.
+## output
+![Screenshot (281) 2](https://github.com/AdityaSaputraG1A023024/Assignment_1_Aditya_Saputra_G1A023024/assets/147525304/343b3faa-475d-4109-ac4c-b980fbd98efb)
 
 # Tugas 4
 Program ini adalah contoh sederhana untuk mengakses dan mencetak elemen-elemen dalam sebuah array. Program ini menggunakan array untuk menyimpan beberapa nama dalam tipe data string. Kemudian, program mencetak setiap elemen array ke layar dengan nomor indeksnya. 
@@ -162,7 +168,8 @@ Program ini adalah contoh sederhana untuk mengakses dan mencetak elemen-elemen d
 * for (int i = 0; i <= 3; i++) {: Ini adalah loop for yang akan melakukan iterasi dari 0 hingga 3. Variabel i digunakan sebagai variabel iterasi yang dimulai dari 0 dan bertambah satu pada setiap iterasi. Loop ini akan mengulang sebanyak empat kali.
 * System.out.println("variabel ke-" + i + " adalah :" + nama[i]);: Di dalam loop for, program mencetak pesan yang berisi nomor indeks i dan elemen array nama pada indeks i. Pesan ini mencetak nama-nama dari array nama bersama dengan nomor indeksnya.
 * Kode ini mengilustrasikan bagaimana array digunakan untuk menyimpan dan mengakses beberapa nilai dalam sebuah program. Dalam hal ini, array nama digunakan untuk menyimpan daftar nama, dan loop for digunakan untuk mengakses setiap elemen dalam array tersebut.
-
+## Output
+![Screenshot (278) 2](https://github.com/AdityaSaputraG1A023024/Assignment_1_Aditya_Saputra_G1A023024/assets/147525304/49a322ff-c034-44f0-92ba-5c6436c0583e)
 
 
 
